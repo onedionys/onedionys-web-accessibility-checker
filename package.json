@@ -1,0 +1,36 @@
+{
+  "name": "onedionys-web-accessibility-checker",
+  "version": "1.0.0",
+  "description": "One Dionys (Web Accessibility Checker) - Functions to test and check web application compliance with WCAG (Web Content Accessibility Guidelines) accessibility guidelines.",
+  "main": "src/accessibilityChecker.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-web-accessibility-checker.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "web-accessibility-checker"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-web-accessibility-checker/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-web-accessibility-checker#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21"
+  }
+}
