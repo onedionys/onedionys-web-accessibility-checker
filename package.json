@@ -1,6 +1,6 @@
 {
   "name": "onedionys-web-accessibility-checker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "One Dionys (Web Accessibility Checker) - Functions to test and check web application compliance with WCAG (Web Content Accessibility Guidelines) accessibility guidelines.",
   "main": "src/accessibilityChecker.js",
   "directories": {
